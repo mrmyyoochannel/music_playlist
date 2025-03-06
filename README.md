@@ -1,6 +1,7 @@
 # music_playlist
-music_playlist php script
-<br>
-<a>------------------------------------------------</a>
-<br>
-[myprofile](https://myyoomi.carrd.co/)
+
+music_playlist PHP script
+
+------------------------------------------------
+
+For more information, check out [my profile](https://myyoomi.carrd.co/).
